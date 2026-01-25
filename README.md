@@ -4,7 +4,7 @@
 
 Me chamo Mateus Moreira Fernandes, tenho 19 anos, estudo no iCEV cursando Engenharia de Software, sou um grande entusiasta na área de Dados, e pretendo trabalhar como um Data Engineer.
 
-My name is Mateus Moreira Fernandes, I'm 18 years old, I study Software Engineering at iCEV, I'm a big enthusiast in the Data area, and I intend to work as a Data Engineer.
+My name is Mateus Moreira Fernandes, I'm 19 years old, I study Software Engineering at iCEV, I'm a big enthusiast in the Data area, and I intend to work as a Data Engineer.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mateus-moreira-151511352">
