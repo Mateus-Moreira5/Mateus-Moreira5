@@ -1,10 +1,9 @@
 # 👨‍💻 Mateus Moreira
+**`Backend Developer (C# / .NET)`**
 
-**`Data Engineer`**
+Me chamo Mateus Moreira Fernandes, tenho 19 anos, estudo Engenharia de Software no iCEV e sou apaixonado por desenvolvimento backend. Atualmente construindo APIs REST com C#, ASP.NET Core e PostgreSQL, aplicando Clean Architecture e boas práticas de engenharia de software.
 
-Me chamo Mateus Moreira Fernandes, tenho 19 anos, estudo no iCEV cursando Engenharia de Software, sou um grande entusiasta na área de Dados, e pretendo trabalhar como um Data Engineer.
-
-My name is Mateus Moreira Fernandes, I'm 19 years old, I study Software Engineering at iCEV, I'm a big enthusiast in the Data area, and I intend to work as a Data Engineer.
+My name is Mateus Moreira Fernandes, I'm 19 years old, I study Software Engineering at iCEV and I'm passionate about backend development. Currently building REST APIs with C#, ASP.NET Core and PostgreSQL, applying Clean Architecture and software engineering best practices.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mateus-moreira-151511352">
@@ -26,13 +25,30 @@ My name is Mateus Moreira Fernandes, I'm 19 years old, I study Software Engineer
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
@@ -41,20 +57,6 @@ My name is Mateus Moreira Fernandes, I'm 19 years old, I study Software Engineer
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -67,4 +69,3 @@ My name is Mateus Moreira Fernandes, I'm 19 years old, I study Software Engineer
 
 <br/>
 <br/>
- 
