@@ -1,9 +1,9 @@
 # 👨‍💻 Mateus Moreira
 **`Backend Developer (C# / .NET)`**
 
-Me chamo Mateus Moreira Fernandes, tenho 20 anos, estudo Engenharia de Software no iCEV e sou apaixonado por desenvolvimento backend. Atualmente construindo APIs REST com C#, ASP.NET Core e PostgreSQL, aplicando boas práticas de engenharia de software.
+Estudante de Engenharia de Software com foco em desenvolvimento backend com C# e .NET. Experiência prática em projetos acadêmicos e pessoais envolvendo APIs REST com ASP.NET Core, persistência de dados com PostgreSQL e Entity Framework Core, validação de entradas e deploy em nuvem.
 
-My name is Mateus Moreira Fernandes, I'm 20 years old, I study Software Engineering at iCEV and I'm passionate about backend development. Currently building REST APIs with C#, ASP.NET Core and PostgreSQL, applying software engineering best practices.
+Software Engineering student with a focus on backend development using C# and .NET. Practical experience in academic and personal projects involving REST APIs built with ASP.NET Core, data persistence using PostgreSQL and Entity Framework Core, input validation, and cloud deployment.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mateus-moreira-151511352">
